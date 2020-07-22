@@ -20,4 +20,4 @@ The sample interface features the ability to select a table from the MySQL datab
 
 As mentioned in the coursework briefing, this is only meant to be a sample application, meaning it shouldn't contain all the features that an otherwise completed system would have. As such, this interface can only read data from the database, and it doesn't have any security features or robust exception handling. In a finished application, there'd ideally be a login system, and a way to modify/delete records from the database.
 
-![Sample Interface](https://user-images.githubusercontent.com/5298487/78462224-06edb580-76c8-11ea-8984-0059754a22a3.png)
+![Sample Interface](https://i.imgur.com/CGm1uf8.png)
